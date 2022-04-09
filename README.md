@@ -27,7 +27,7 @@ Thank you for checking me out :)
 ![discord](https://img.shields.io/badge/senji%238888-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![valorant](https://img.shields.io/badge/[Valorant]%20senji%23888-D32936?style=flat-square&logo=riotgames&logoColor=white)
 [![youtube](https://img.shields.io/badge/senji-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3OQ-Z47eeBRHohclTPOHRg)
-[![anilist](https://img.shields.io/badge/KaizNG-02A9FF?style=flat-square&logo=anilist&logoColor=white)](https://anilist.co/user/KaizNG/)
+[![anilist](https://img.shields.io/badge/KaizNG-02A9FF?style=flat-square&logo=anilist&logoColor=white)](https://anilist.co/user/senji/)
 [![twitter](https://img.shields.io/badge/senji__gg-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/senji_gg)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-philip-ic/)
 
