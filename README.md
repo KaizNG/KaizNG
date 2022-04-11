@@ -22,7 +22,7 @@ Thank you for checking me out :)
 ![ios](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ## 🔎 Find Me On Stuff
-[![osu!](https://img.shields.io/badge/kaizng-FF66AA?style=flat-square&logo=osu&logoColor=white)](https://osu.ppy.sh/users/27264842)
+[![osu!](https://img.shields.io/badge/ssenjii-FF66AA?style=flat-square&logo=osu&logoColor=white)](https://osu.ppy.sh/users/27264842)
 [![steam](https://img.shields.io/badge/senji888-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/senji888/)
 ![discord](https://img.shields.io/badge/senji%238888-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![valorant](https://img.shields.io/badge/[Valorant]%20senji%23888-D32936?style=flat-square&logo=riotgames&logoColor=white)
