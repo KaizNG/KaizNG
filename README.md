@@ -1,5 +1,4 @@
-![intro](https://user-images.githubusercontent.com/40345089/162255673-61e701f3-42ae-418a-aaf6-3f94e386ebb1.gif)\
-[![visits](https://badges.pufler.dev/visits/ssenjii/ssenjii)](https://badges.pufler.dev)
+![intro](https://user-images.githubusercontent.com/40345089/162255673-61e701f3-42ae-418a-aaf6-3f94e386ebb1.gif)
 
 I'm a computer science student currently studying at Western University.\
 I'm currently learning Python and HTML, and I plan on learning Java, C, and C++.\
