@@ -1,8 +1,8 @@
 ![intro](https://user-images.githubusercontent.com/40345089/162255673-61e701f3-42ae-418a-aaf6-3f94e386ebb1.gif)
 
 I'm a computer science student currently studying at Western University.\
-I'm currently learning Python and HTML, and I plan on learning Java, C, and C++.\
-I aspire to work on video games or be on a team that works on video games!\
+I'm currently learning Python, Java and HTML, and I plan on learning CSS, JS, and C++.\
+I aspire to work on video games and front end development!\
 Thank you for checking me out :)
 
 ## 🔨 What I'm Using
